@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(101, 197, 101);
+    font: normal 15pt Arial;
+}
+main{
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.cabeça{
+    font-size: 14pt;
+    font-style: italic;
+}
+
+.resp{
+    font: normal 12pt Arial;
+    text-align: center;
+}
+header{
+    margin-bottom: 40px;
+}
+h1{
+    text-align: center;
+}
